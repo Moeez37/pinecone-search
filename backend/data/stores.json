@@ -1,0 +1,4551 @@
+[
+    {
+      "sweedId": 158,
+      "post_id": 419,
+      "locationId": "PA008",
+      "slug": "abington",
+      "post_title": "Abington",
+      "title": "Abington",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "5:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 782,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "1752 Old York Rd",
+      "address_2": null,
+      "city": "Abington",
+      "zip": "19001",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.13358822259026",
+      "lng": "-75.11613467299966"
+    },
+    {
+      "sweedId": 154,
+      "post_id": 191,
+      "locationId": "PA004",
+      "slug": "altoona",
+      "post_title": "Altoona",
+      "title": "Altoona",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 2436,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "590 W Plank Road",
+      "address_2": null,
+      "city": "Altoona",
+      "zip": "16602",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.468967",
+      "lng": "-78.407395"
+    },
+    {
+      "sweedId": null,
+      "post_id": 98727,
+      "locationId": null,
+      "slug": "antwerp",
+      "post_title": "Antwerp",
+      "title": "Antwerp",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": null,
+          "open": null
+        }
+      },
+      "medicalStoreId": 6268,
+      "recreationalStoreId": 6269,
+      "storePlatform": "iHeartJane",
+      "address_1": "503 W River Rd",
+      "address_2": null,
+      "city": "Antwerp",
+      "zip": "45813",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3Mg==",
+        "post_title": "Ohio",
+        "slug": "ohio",
+        "abbr": "OH"
+      },
+      "lat": "41.17908327032872",
+      "lng": "-84.74738345117805"
+    },
+    {
+      "sweedId": 183,
+      "post_id": 98098,
+      "locationId": null,
+      "slug": "arcadia",
+      "post_title": "Arcadia",
+      "title": "Arcadia",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Shiprock",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        }
+      },
+      "medicalStoreId": 12,
+      "recreationalStoreId": 12,
+      "storePlatform": "Sweed",
+      "address_1": "2710 E Indian School Rd.",
+      "address_2": null,
+      "city": "Phoenix",
+      "zip": "85016",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0MA==",
+        "post_title": "Arizona",
+        "slug": "arizona",
+        "abbr": "AZ"
+      },
+      "lat": "33.49557216798563",
+      "lng": "-112.02297714564811"
+    },
+    {
+      "sweedId": null,
+      "post_id": 99588,
+      "locationId": null,
+      "slug": "ashford",
+      "post_title": "Ashford",
+      "title": "Ashford",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 6405,
+      "recreationalStoreId": 6403,
+      "storePlatform": "iHeartJane",
+      "address_1": "55 Nott Hwy",
+      "address_2": null,
+      "city": "Ashford",
+      "zip": "06278",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0NA==",
+        "post_title": "Connecticut",
+        "slug": "connecticut",
+        "abbr": "CT"
+      },
+      "lat": "41.85910659775425",
+      "lng": "-72.18253663605662"
+    },
+    {
+      "sweedId": 539,
+      "post_id": 193,
+      "locationId": "IL003",
+      "slug": "aurora",
+      "post_title": "Aurora",
+      "title": "Aurora",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": null,
+      "recreationalStoreId": 2195,
+      "storePlatform": "iHeartJane",
+      "address_1": "740 IL Rte 59",
+      "address_2": null,
+      "city": "Aurora",
+      "zip": "60504",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "41.752410",
+      "lng": "-88.206120"
+    },
+    {
+      "sweedId": null,
+      "post_id": 187,
+      "locationId": "OH004",
+      "slug": "bowling-green",
+      "post_title": "Bowling Green",
+      "title": "Bowling Green",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 2815,
+      "recreationalStoreId": 6097,
+      "storePlatform": "iHeartJane",
+      "address_1": "1155 N Main St.",
+      "address_2": null,
+      "city": "Bowling Green",
+      "zip": "43402",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3Mg==",
+        "post_title": "Ohio",
+        "slug": "ohio",
+        "abbr": "OH"
+      },
+      "lat": "41.393552",
+      "lng": "-83.651177"
+    },
+    {
+      "sweedId": null,
+      "post_id": 189,
+      "locationId": "MI001",
+      "slug": "buchanan",
+      "post_title": "Buchanan",
+      "title": "Buchanan",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 1844,
+      "recreationalStoreId": 1845,
+      "storePlatform": "iHeartJane",
+      "address_1": "259 East Front Street",
+      "address_2": null,
+      "city": "Buchanan",
+      "zip": "49107",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1OQ==",
+        "post_title": "Michigan",
+        "slug": "michigan",
+        "abbr": "MI"
+      },
+      "lat": "41.827503",
+      "lng": "-86.358882"
+    },
+    {
+      "sweedId": 143,
+      "post_id": 20434,
+      "locationId": "WV005",
+      "slug": "buckhannon",
+      "post_title": "Buckhannon",
+      "title": "Buckhannon",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "5:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "5:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "120 Buckhannon Crossroads",
+      "address_2": null,
+      "city": "Buckhannon",
+      "zip": "26201",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo4NQ==",
+        "post_title": "West Virginia",
+        "slug": "west-virginia",
+        "abbr": "WV"
+      },
+      "lat": "38.997766934000225",
+      "lng": "-80.2373104464218"
+    },
+    {
+      "sweedId": null,
+      "post_id": 185,
+      "locationId": "OH002",
+      "slug": "canton",
+      "post_title": "Canton",
+      "title": "Canton",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 1897,
+      "recreationalStoreId": 6101,
+      "storePlatform": "iHeartJane",
+      "address_1": "3224 Cleveland Avenue NW",
+      "address_2": null,
+      "city": "Canton",
+      "zip": "44709",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3Mg==",
+        "post_title": "Ohio",
+        "slug": "ohio",
+        "abbr": "OH"
+      },
+      "lat": "40.834129",
+      "lng": "-81.388252"
+    },
+    {
+      "sweedId": 384,
+      "post_id": 17867,
+      "locationId": "NV004",
+      "slug": "carson-city",
+      "post_title": "Carson City",
+      "title": "Carson City",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Los_Angeles",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "8:00 am"
+          },
+          {
+            "closed": true,
+            "closingTime": null,
+            "date": "07/23/2025",
+            "noticeToDisplayOnWebsite": null,
+            "openingTime": null
+          }
+        ],
+        "monday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        }
+      },
+      "medicalStoreId": 5309,
+      "recreationalStoreId": 777,
+      "storePlatform": "Sweed",
+      "address_1": "2765 US-50 A",
+      "address_2": null,
+      "city": "Carson City",
+      "zip": "89701",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo2NQ==",
+        "post_title": "Nevada",
+        "slug": "nevada",
+        "abbr": "NV"
+      },
+      "lat": "39.17558961125775",
+      "lng": "-119.73694411742088"
+    },
+    {
+      "sweedId": 184,
+      "post_id": 411,
+      "locationId": "AZ003",
+      "slug": "chandler",
+      "post_title": "Chandler",
+      "title": "Chandler",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Shiprock",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        }
+      },
+      "medicalStoreId": 1413,
+      "recreationalStoreId": 1,
+      "storePlatform": "Sweed",
+      "address_1": "7200 W Chandler Blvd Ste 7",
+      "address_2": null,
+      "city": "Chandler",
+      "zip": "85226",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0MA==",
+        "post_title": "Arizona",
+        "slug": "arizona",
+        "abbr": "AZ"
+      },
+      "lat": "33.306081",
+      "lng": "-111.966286"
+    },
+    {
+      "sweedId": 536,
+      "post_id": 399,
+      "locationId": "IL010",
+      "slug": "chicago-pilsen",
+      "post_title": "Chicago (Pilsen)",
+      "title": "Chicago (Pilsen)",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 709,
+      "recreationalStoreId": 1498,
+      "storePlatform": "iHeartJane",
+      "address_1": "1301 S Western Ave",
+      "address_2": null,
+      "city": "Chicago",
+      "zip": "60608",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "41.864525",
+      "lng": "-87.68566"
+    },
+    {
+      "sweedId": 545,
+      "post_id": 658,
+      "locationId": "IL011",
+      "slug": "chicago-rogers-park",
+      "post_title": "Chicago (Rogers Park)",
+      "title": "Chicago (Rogers Park)",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 3026,
+      "recreationalStoreId": 3037,
+      "storePlatform": "iHeartJane",
+      "address_1": "7305 N Rogers Ave",
+      "address_2": null,
+      "city": "Chicago",
+      "zip": "60626",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "42.013863",
+      "lng": "-87.679404"
+    },
+    {
+      "sweedId": 542,
+      "post_id": 179,
+      "locationId": "IL009",
+      "slug": "chicago-west-loop",
+      "post_title": "Chicago (West Loop)",
+      "title": "Chicago (West Loop)",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": null,
+      "recreationalStoreId": 2940,
+      "storePlatform": "iHeartJane",
+      "address_1": "222 S Halsted Street",
+      "address_2": null,
+      "city": "Chicago",
+      "zip": "60661",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "41.878490",
+      "lng": "-87.647620"
+    },
+    {
+      "sweedId": null,
+      "post_id": 562,
+      "locationId": "OH003",
+      "slug": "cincinnati",
+      "post_title": "Cincinnati",
+      "title": "Cincinnati",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 1895,
+      "recreationalStoreId": 6100,
+      "storePlatform": "iHeartJane",
+      "address_1": "8420 Vine St",
+      "address_2": null,
+      "city": "Cincinnati",
+      "zip": "45216",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3Mg==",
+        "post_title": "Ohio",
+        "slug": "ohio",
+        "abbr": "OH"
+      },
+      "lat": "39.21632109062307",
+      "lng": "-84.473426457722"
+    },
+    {
+      "sweedId": 92,
+      "post_id": 17744,
+      "locationId": "WV004",
+      "slug": "clarksburg",
+      "post_title": "Clarksburg",
+      "title": "Clarksburg",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "5:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "5:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "254 Emily Dr",
+      "address_2": null,
+      "city": "Clarksburg",
+      "zip": "26301",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo4NQ==",
+        "post_title": "West Virginia",
+        "slug": "west-virginia",
+        "abbr": "WV"
+      },
+      "lat": "39.27470627683945",
+      "lng": "-80.28347920182111"
+    },
+    {
+      "sweedId": 160,
+      "post_id": 19309,
+      "locationId": "PA019",
+      "slug": "clifton-heights",
+      "post_title": "Clifton Heights",
+      "title": "Clifton Heights",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 5099,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "5321 W Baltimore Pike",
+      "address_2": null,
+      "city": "Clifton Heights",
+      "zip": "19018",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "39.9256207525002",
+      "lng": "-75.30972258997836"
+    },
+    {
+      "sweedId": 145,
+      "post_id": 413,
+      "locationId": "PA011",
+      "slug": "cranberry",
+      "post_title": "Cranberry Factory Store",
+      "title": "Cranberry Factory Store",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "5:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "11:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "4:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 4081,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "270 Executive Dr.",
+      "address_2": null,
+      "city": "Cranberry Twp",
+      "zip": "16066",
+      "shortTitle": "Cranberry Factory Store",
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.691619",
+      "lng": "-80.110334"
+    },
+    {
+      "sweedId": null,
+      "post_id": 569,
+      "locationId": "OH005",
+      "slug": "dayton",
+      "post_title": "Dayton (Riverside)",
+      "title": "Dayton (Riverside)",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 3682,
+      "recreationalStoreId": 6099,
+      "storePlatform": "iHeartJane",
+      "address_1": "5604 Airway Rd",
+      "address_2": null,
+      "city": "Riverside",
+      "zip": "45431",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3Mg==",
+        "post_title": "Ohio",
+        "slug": "ohio",
+        "abbr": "OH"
+      },
+      "lat": "39.770758",
+      "lng": "-84.106042"
+    },
+    {
+      "sweedId": 552,
+      "post_id": 183,
+      "locationId": "NJ002",
+      "slug": "elizabeth",
+      "post_title": "Elizabeth",
+      "title": "Elizabeth",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 1842,
+      "recreationalStoreId": 4443,
+      "storePlatform": "Sweed",
+      "address_1": "117 Spring St",
+      "address_2": null,
+      "city": "Elizabeth",
+      "zip": "07201",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo2Nw==",
+        "post_title": "New Jersey",
+        "slug": "new-jersey",
+        "abbr": "NJ"
+      },
+      "lat": "40.662979",
+      "lng": "-74.205643"
+    },
+    {
+      "sweedId": null,
+      "post_id": 173,
+      "locationId": "MD002",
+      "slug": "elkridge",
+      "post_title": "Elkridge",
+      "title": "Elkridge",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 1883,
+      "recreationalStoreId": 5492,
+      "storePlatform": "iHeartJane",
+      "address_1": "6000 Marshalee Dr",
+      "address_2": null,
+      "city": "Elkridge",
+      "zip": "21075",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1Nw==",
+        "post_title": "Maryland",
+        "slug": "maryland",
+        "abbr": "MD"
+      },
+      "lat": "39.211469034973184",
+      "lng": "-76.77813422034134"
+    },
+    {
+      "sweedId": null,
+      "post_id": 99589,
+      "locationId": null,
+      "slug": "enfield",
+      "post_title": "Enfield",
+      "title": "Enfield",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 6407,
+      "recreationalStoreId": 6409,
+      "storePlatform": "iHeartJane",
+      "address_1": "98 Elm St",
+      "address_2": null,
+      "city": "Enfield",
+      "zip": "06082",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0NA==",
+        "post_title": "Connecticut",
+        "slug": "connecticut",
+        "abbr": "CT"
+      },
+      "lat": "41.99747633349075",
+      "lng": " -72.58257689999999"
+    },
+    {
+      "sweedId": 535,
+      "post_id": 175,
+      "locationId": "IL002",
+      "slug": "evanston",
+      "post_title": "Evanston",
+      "title": "Evanston",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "11:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 2047,
+      "recreationalStoreId": 2048,
+      "storePlatform": "Sweed",
+      "address_1": "1804 Maple Ave",
+      "address_2": null,
+      "city": "Evanston",
+      "zip": "60201",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "42.050165",
+      "lng": "-87.685026"
+    },
+    {
+      "sweedId": 159,
+      "post_id": 97999,
+      "locationId": null,
+      "slug": "fairless-hills",
+      "post_title": "Fairless Hills Factory Store",
+      "title": "Fairless Hills Factory Store",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 3949,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "203 Lincoln Hwy.",
+      "address_2": null,
+      "city": "Fairless Hills",
+      "zip": "19030",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.184948790769496",
+      "lng": "-74.85660555767211"
+    },
+    {
+      "sweedId": 383,
+      "post_id": 404,
+      "locationId": "NV002",
+      "slug": "flamingo",
+      "post_title": "Flamingo",
+      "title": "Flamingo",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Los_Angeles",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 5848,
+      "recreationalStoreId": 3702,
+      "storePlatform": "Sweed",
+      "address_1": "5940 W Flamingo Rd",
+      "address_2": null,
+      "city": "Las Vegas",
+      "zip": "89103",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo2NQ==",
+        "post_title": "Nevada",
+        "slug": "nevada",
+        "abbr": "NV"
+      },
+      "lat": "36.114946",
+      "lng": "-115.222494"
+    },
+    {
+      "sweedId": null,
+      "post_id": 177,
+      "locationId": "MD001",
+      "slug": "germantown",
+      "post_title": "Germantown",
+      "title": "Germantown",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 1890,
+      "recreationalStoreId": 5489,
+      "storePlatform": "iHeartJane",
+      "address_1": "13007 Wisteria Dr Unit 28-29",
+      "address_2": null,
+      "city": "Germantown",
+      "zip": "20874",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1Nw==",
+        "post_title": "Maryland",
+        "slug": "maryland",
+        "abbr": "MD"
+      },
+      "lat": "39.178676",
+      "lng": "-77.270405"
+    },
+    {
+      "sweedId": 179,
+      "post_id": 412,
+      "locationId": "AZ004",
+      "slug": "gilbert",
+      "post_title": "Gilbert",
+      "title": "Gilbert",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Shiprock",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": 2753,
+      "storePlatform": "Sweed",
+      "address_1": "5409 S Power Rd",
+      "address_2": null,
+      "city": "Mesa",
+      "zip": "85212",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0MA==",
+        "post_title": "Arizona",
+        "slug": "arizona",
+        "abbr": "AZ"
+      },
+      "lat": "33.317803",
+      "lng": "-111.686107"
+    },
+    {
+      "sweedId": 150,
+      "post_id": 169,
+      "locationId": "PA001",
+      "slug": "harrisburg",
+      "post_title": "Harrisburg Factory Store",
+      "title": "Harrisburg Factory Store",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": true,
+            "closingTime": null,
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": null
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "5:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 2437,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "137 S 17th Street",
+      "address_2": null,
+      "city": "Harrisburg",
+      "zip": "17104",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.265162",
+      "lng": "-76.863671"
+    },
+    {
+      "sweedId": 538,
+      "post_id": 171,
+      "locationId": "IL006",
+      "slug": "highland-park",
+      "post_title": "Highland Park",
+      "title": "Highland Park",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 2726,
+      "recreationalStoreId": 1815,
+      "storePlatform": "Sweed",
+      "address_1": "2030 Skokie Valley Rd",
+      "address_2": null,
+      "city": "Highland Park",
+      "zip": "60035",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "42.19050675809013",
+      "lng": "-87.8273005085951"
+    },
+    {
+      "sweedId": 385,
+      "post_id": 165,
+      "locationId": "NV001",
+      "slug": "las-vegas",
+      "post_title": "Las Vegas",
+      "title": "Las Vegas",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Los_Angeles",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 1648,
+      "recreationalStoreId": 1641,
+      "storePlatform": "Sweed",
+      "address_1": "9120 W Post Rd Suite 103",
+      "address_2": null,
+      "city": "Las Vegas",
+      "zip": "89148",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo2NQ==",
+        "post_title": "Nevada",
+        "slug": "nevada",
+        "abbr": "NV"
+      },
+      "lat": "36.074568",
+      "lng": "-115.291084"
+    },
+    {
+      "sweedId": 554,
+      "post_id": 167,
+      "locationId": "NJ003",
+      "slug": "lawrence",
+      "post_title": "Lawrence",
+      "title": "Lawrence",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 3254,
+      "recreationalStoreId": 4441,
+      "storePlatform": "Sweed",
+      "address_1": "3256 Brunswick Pike",
+      "address_2": null,
+      "city": "Lawrence Township",
+      "zip": "08648",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo2Nw==",
+        "post_title": "New Jersey",
+        "slug": "new-jersey",
+        "abbr": "NJ"
+      },
+      "lat": "40.290276",
+      "lng": "-74.686855"
+    },
+    {
+      "sweedId": 540,
+      "post_id": 426,
+      "locationId": "IL008",
+      "slug": "lombard",
+      "post_title": "Lombard",
+      "title": "Lombard",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": null,
+      "recreationalStoreId": 2804,
+      "storePlatform": "iHeartJane",
+      "address_1": "783 Butterfield Rd",
+      "address_2": null,
+      "city": "Lombard",
+      "zip": "60148",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "41.839617",
+      "lng": "-87.997508"
+    },
+    {
+      "sweedId": 148,
+      "post_id": 415,
+      "locationId": "PA009",
+      "slug": "malvern",
+      "post_title": "Malvern",
+      "title": "Malvern",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "5:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 780,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "249 Planebrook Rd.",
+      "address_2": null,
+      "city": "Malvern",
+      "zip": "19355",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.036344",
+      "lng": "-75.570654"
+    },
+    {
+      "sweedId": null,
+      "post_id": 665,
+      "locationId": "CT001",
+      "slug": "meriden",
+      "post_title": "Meriden",
+      "title": "Meriden",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 4193,
+      "recreationalStoreId": 5020,
+      "storePlatform": "iHeartJane",
+      "address_1": "1371 E Main St",
+      "address_2": "Ste 7",
+      "city": "Meriden",
+      "zip": "06450",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0NA==",
+        "post_title": "Connecticut",
+        "slug": "connecticut",
+        "abbr": "CT"
+      },
+      "lat": "41.525298",
+      "lng": "-72.756919"
+    },
+    {
+      "sweedId": 181,
+      "post_id": 407,
+      "locationId": "AZ005",
+      "slug": "mesa",
+      "post_title": "Mesa",
+      "title": "Mesa",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Shiprock",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "8:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": 2752,
+      "storePlatform": "Sweed",
+      "address_1": "550 W McKellips Rd.",
+      "address_2": null,
+      "city": "Mesa",
+      "zip": "85201",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0MA==",
+        "post_title": "Arizona",
+        "slug": "arizona",
+        "abbr": "AZ"
+      },
+      "lat": "33.451619",
+      "lng": "-111.843281"
+    },
+    {
+      "sweedId": 146,
+      "post_id": 414,
+      "locationId": "PA012",
+      "slug": "monroeville",
+      "post_title": "Monroeville",
+      "title": "Monroeville",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "11:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "4:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 4083,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "130 Mall Cir Dr.",
+      "address_2": null,
+      "city": "Monroeville",
+      "zip": "15146",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.4316334438703",
+      "lng": "-79.7938776038855"
+    },
+    {
+      "sweedId": 57,
+      "post_id": 402,
+      "locationId": "WV001",
+      "slug": "morgantown",
+      "post_title": "Morgantown",
+      "title": "Morgantown",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "5:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "5:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "205 Venture Dr",
+      "address_2": null,
+      "city": "Morgantown",
+      "zip": "26508",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo4NQ==",
+        "post_title": "West Virginia",
+        "slug": "west-virginia",
+        "abbr": "WV"
+      },
+      "lat": "39.648819",
+      "lng": "-79.89887"
+    },
+    {
+      "sweedId": 555,
+      "post_id": 98564,
+      "locationId": null,
+      "slug": "mt-holly",
+      "post_title": "Mt. Holly",
+      "title": "Mt. Holly",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Los_Angeles",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": null,
+      "recreationalStoreId": 6148,
+      "storePlatform": "Sweed",
+      "address_1": "600 High St. ",
+      "address_2": null,
+      "city": "Mt. Holly",
+      "zip": "08060",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo2Nw==",
+        "post_title": "New Jersey",
+        "slug": "new-jersey",
+        "abbr": "NJ"
+      },
+      "lat": "40.00725710406759",
+      "lng": "-74.798217945342"
+    },
+    {
+      "sweedId": 541,
+      "post_id": 161,
+      "locationId": "IL005",
+      "slug": "naperville",
+      "post_title": "Naperville",
+      "title": "Naperville",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": null,
+      "recreationalStoreId": 2593,
+      "storePlatform": "iHeartJane",
+      "address_1": "1516 N Naper Blvd",
+      "address_2": null,
+      "city": "Naperville",
+      "zip": "60563",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "41.797403",
+      "lng": "-88.118652"
+    },
+    {
+      "sweedId": null,
+      "post_id": 96783,
+      "locationId": null,
+      "slug": "naugatuck",
+      "post_title": "Naugatuck",
+      "title": "Naugatuck",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 5888,
+      "recreationalStoreId": 5887,
+      "storePlatform": "iHeartJane",
+      "address_1": "585 S. Main St. Ste. 7",
+      "address_2": null,
+      "city": "Naugatuck",
+      "zip": "06770",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0NA==",
+        "post_title": "Connecticut",
+        "slug": "connecticut",
+        "abbr": "CT"
+      },
+      "lat": "41.48083446113356",
+      "lng": "-73.04804789935126"
+    },
+    {
+      "sweedId": 553,
+      "post_id": 163,
+      "locationId": "NJ001",
+      "slug": "neptune",
+      "post_title": "Neptune",
+      "title": "Neptune",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 3016,
+      "recreationalStoreId": 4442,
+      "storePlatform": "Sweed",
+      "address_1": "2100 Route 66",
+      "address_2": null,
+      "city": "Neptune Township",
+      "zip": "07753",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo2Nw==",
+        "post_title": "New Jersey",
+        "slug": "new-jersey",
+        "abbr": "NJ"
+      },
+      "lat": "40.226151",
+      "lng": "-74.040615"
+    },
+    {
+      "sweedId": 157,
+      "post_id": 17853,
+      "locationId": "PA018",
+      "slug": "new-kensington",
+      "post_title": "New Kensington (Pittsburgh)",
+      "title": "New Kensington (Pittsburgh)",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "6:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "4:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 4707,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "215 Tarentum Bridge Rd",
+      "address_2": null,
+      "city": "New Kensington",
+      "zip": "15068",
+      "shortTitle": "New Kensington",
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.591542",
+      "lng": "-79.752101"
+    },
+    {
+      "sweedId": null,
+      "post_id": 563,
+      "locationId": "OH001",
+      "slug": "newark",
+      "post_title": "Newark",
+      "title": "Newark",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 1896,
+      "recreationalStoreId": 6095,
+      "storePlatform": "iHeartJane",
+      "address_1": "1250 N 21st St.",
+      "address_2": null,
+      "city": "Newark",
+      "zip": "43055",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3Mg==",
+        "post_title": "Ohio",
+        "slug": "ohio",
+        "abbr": "OH"
+      },
+      "lat": "40.08235",
+      "lng": "-82.427355"
+    },
+    {
+      "sweedId": null,
+      "post_id": 23940,
+      "locationId": "CT004",
+      "slug": "newington",
+      "post_title": "Newington",
+      "title": "Newington",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 5567,
+      "recreationalStoreId": 5568,
+      "storePlatform": "iHeartJane",
+      "address_1": "2903 Berlin Turnpike",
+      "address_2": null,
+      "city": "Newington",
+      "zip": "06111",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0NA==",
+        "post_title": "Connecticut",
+        "slug": "connecticut",
+        "abbr": "CT"
+      },
+      "lat": "41.671616708488",
+      "lng": "-72.71807423738848"
+    },
+    {
+      "sweedId": 233,
+      "post_id": 96641,
+      "locationId": null,
+      "slug": "norristown",
+      "post_title": "Norristown",
+      "title": "Norristown",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 4209,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "436 Egypt Rd.",
+      "address_2": null,
+      "city": "Norristown",
+      "zip": "19403",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.13077263477558",
+      "lng": "-75.40006617412786"
+    },
+    {
+      "sweedId": 382,
+      "post_id": 425,
+      "locationId": "NV003",
+      "slug": "north-las-vegas",
+      "post_title": "North Las Vegas",
+      "title": "North Las Vegas",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Los_Angeles",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "8:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "11:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "11:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "11:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "11:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "11:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "11:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "11:00 PM",
+          "open": "8:00 AM"
+        }
+      },
+      "medicalStoreId": 5847,
+      "recreationalStoreId": 2747,
+      "storePlatform": "Sweed",
+      "address_1": "4444 W Craig Road",
+      "address_2": "Suite 100-104",
+      "city": "North Las Vegas",
+      "zip": "89032",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo2NQ==",
+        "post_title": "Nevada",
+        "slug": "nevada",
+        "abbr": "NV"
+      },
+      "lat": "36.239449",
+      "lng": "-115.202142"
+    },
+    {
+      "sweedId": null,
+      "post_id": 22963,
+      "locationId": "CT003",
+      "slug": "norwich",
+      "post_title": "Norwich",
+      "title": "Norwich",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 5375,
+      "recreationalStoreId": 5382,
+      "storePlatform": "iHeartJane",
+      "address_1": "606 W Main St",
+      "address_2": null,
+      "city": "Norwich",
+      "zip": "06360",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0NA==",
+        "post_title": "Connecticut",
+        "slug": "connecticut",
+        "abbr": "CT"
+      },
+      "lat": "41.515760",
+      "lng": "-72.100440"
+    },
+    {
+      "sweedId": null,
+      "post_id": 684,
+      "locationId": "MD004",
+      "slug": "pasadena",
+      "post_title": "Pasadena",
+      "title": "Pasadena",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 1654,
+      "recreationalStoreId": 5491,
+      "storePlatform": "iHeartJane",
+      "address_1": "16 Magothy Beach Rd",
+      "address_2": null,
+      "city": "Pasadena",
+      "zip": "21122",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1Nw==",
+        "post_title": "Maryland",
+        "slug": "maryland",
+        "abbr": "MD"
+      },
+      "lat": "39.121936946235714",
+      "lng": "-76.51777501534264"
+    },
+    {
+      "sweedId": 152,
+      "post_id": 406,
+      "locationId": "PA016",
+      "slug": "philadelphia",
+      "post_title": "Philadelphia",
+      "title": "Philadelphia",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "5:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "11:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 3427,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "2504 Welsh Rd",
+      "address_2": null,
+      "city": "Philadelphia",
+      "zip": "19152",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.073008",
+      "lng": "-75.035078"
+    },
+    {
+      "sweedId": 180,
+      "post_id": 401,
+      "locationId": "AZ006",
+      "slug": "phoenix-n-cave-creek",
+      "post_title": "Phoenix (N Cave Creek)",
+      "title": "Phoenix (N Cave Creek)",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Shiprock",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": 3055,
+      "storePlatform": "Sweed",
+      "address_1": "12401 N Cave Creek Rd",
+      "address_2": null,
+      "city": "Phoenix",
+      "zip": "85022",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0MA==",
+        "post_title": "Arizona",
+        "slug": "arizona",
+        "abbr": "AZ"
+      },
+      "lat": "33.598853",
+      "lng": "-112.036692"
+    },
+    {
+      "sweedId": 182,
+      "post_id": 408,
+      "locationId": "AZ001",
+      "slug": "phoenix-w-dunlap",
+      "post_title": "Phoenix (W Dunlap)",
+      "title": "Phoenix (W Dunlap)",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Shiprock",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "10:00 PM",
+          "open": "8:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": 3323,
+      "storePlatform": "Sweed",
+      "address_1": "4244 W Dunlap Ave",
+      "address_2": null,
+      "city": "Phoenix",
+      "zip": "85051",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0MA==",
+        "post_title": "Arizona",
+        "slug": "arizona",
+        "abbr": "AZ"
+      },
+      "lat": "33.567897",
+      "lng": "-112.15074"
+    },
+    {
+      "sweedId": 155,
+      "post_id": 23111,
+      "locationId": "PA017",
+      "slug": "pittsburgh-mcknight",
+      "post_title": "Pittsburgh (McKnight)",
+      "title": "Pittsburgh (McKnight)",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "6:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "4:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "4778 McKnight Rd",
+      "address_2": null,
+      "city": "Pittsburgh",
+      "zip": "15237",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.52340862111339",
+      "lng": "-80.0047598319952"
+    },
+    {
+      "sweedId": 149,
+      "post_id": 403,
+      "locationId": "PA015",
+      "slug": "pittsburgh",
+      "post_title": "Pittsburgh (Robinson)",
+      "title": "Pittsburgh (Robinson)",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "11:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "4:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 4082,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "6300 Robinson Centre Dr",
+      "address_2": null,
+      "city": "Pittsburgh",
+      "zip": "15205",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.453724",
+      "lng": "-80.16052"
+    },
+    {
+      "sweedId": null,
+      "post_id": 422,
+      "locationId": "MA002",
+      "slug": "plymouth",
+      "post_title": "Plymouth",
+      "title": "Plymouth",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "11:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": null,
+      "recreationalStoreId": 2136,
+      "storePlatform": "iHeartJane",
+      "address_1": "11 Richard's Rd",
+      "address_2": null,
+      "city": "Plymouth",
+      "zip": "02360",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1OA==",
+        "post_title": "Massachusetts",
+        "slug": "massachusetts",
+        "abbr": "MA"
+      },
+      "lat": "41.956674",
+      "lng": "-70.708131"
+    },
+    {
+      "sweedId": 548,
+      "post_id": 99572,
+      "locationId": null,
+      "slug": "prescott",
+      "post_title": "Prescott",
+      "title": "Prescott",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Los_Angeles",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 111,
+      "recreationalStoreId": 111,
+      "storePlatform": "Sweed",
+      "address_1": "123 E Merritt St",
+      "address_2": null,
+      "city": "Prescott",
+      "zip": "86301",
+      "shortTitle": "SWC Prescott by Zen Leaf",
+      "state": {
+        "id": "cG9zdDo0MA==",
+        "post_title": "Arizona",
+        "slug": "arizona",
+        "abbr": "AZ"
+      },
+      "lat": "34.55526667580726",
+      "lng": "-112.4688022693175"
+    },
+    {
+      "sweedId": 543,
+      "post_id": 423,
+      "locationId": "IL007",
+      "slug": "prospect-heights",
+      "post_title": "Prospect Heights",
+      "title": "Prospect Heights",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": null,
+      "recreationalStoreId": 2614,
+      "storePlatform": "iHeartJane",
+      "address_1": "1434 E Rand Rd",
+      "address_2": null,
+      "city": "Prospect Heights",
+      "zip": "60070",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "42.102301",
+      "lng": "-87.966049"
+    },
+    {
+      "sweedId": 389,
+      "post_id": 17868,
+      "locationId": "NV005",
+      "slug": "reno",
+      "post_title": "Reno",
+      "title": "Reno",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Los_Angeles",
+        "specialHoursOverride": null,
+        "monday": {
+          "closed": "12:00 AM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "12:00 AM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "12:00 AM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "12:00 AM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "12:00 AM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "12:00 AM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "12:00 AM",
+          "open": "8:00 AM"
+        }
+      },
+      "medicalStoreId": 5308,
+      "recreationalStoreId": 762,
+      "storePlatform": "Sweed",
+      "address_1": "1605 E 2nd St ",
+      "address_2": "#103",
+      "city": "Reno",
+      "zip": "89502 ",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo2NQ==",
+        "post_title": "Nevada",
+        "slug": "nevada",
+        "abbr": "NV"
+      },
+      "lat": "39.527768510735676",
+      "lng": "-119.79145934439995"
+    },
+    {
+      "sweedId": 153,
+      "post_id": 416,
+      "locationId": "PA010",
+      "slug": "sellersville",
+      "post_title": "Sellersville",
+      "title": "Sellersville",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "5:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 781,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "64 N Main St.",
+      "address_2": null,
+      "city": "Sellersville",
+      "zip": "18960",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.358221",
+      "lng": "-75.308989"
+    },
+    {
+      "sweedId": null,
+      "post_id": 424,
+      "locationId": "MA001",
+      "slug": "sharon",
+      "post_title": "Sharon",
+      "title": "Sharon",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "11:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 4226,
+      "recreationalStoreId": 2137,
+      "storePlatform": "iHeartJane",
+      "address_1": "2 Merchant St",
+      "address_2": "Suite 1",
+      "city": "Sharon",
+      "zip": "02067",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1OA==",
+        "post_title": "Massachusetts",
+        "slug": "massachusetts",
+        "abbr": "MA"
+      },
+      "lat": "42.118054",
+      "lng": "-71.234766"
+    },
+    {
+      "sweedId": 537,
+      "post_id": 420,
+      "locationId": "IL001",
+      "slug": "st-charles",
+      "post_title": "St. Charles",
+      "title": "St. Charles",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Chicago",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "9:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "10:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 1843,
+      "recreationalStoreId": 1846,
+      "storePlatform": "iHeartJane",
+      "address_1": "3691 E Main Street",
+      "address_2": null,
+      "city": "St Charles",
+      "zip": "60174",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1MA==",
+        "post_title": "Illinois",
+        "slug": "illinois",
+        "abbr": "IL"
+      },
+      "lat": "41.920752",
+      "lng": "-88.271476"
+    },
+    {
+      "sweedId": 547,
+      "post_id": 99570,
+      "locationId": null,
+      "slug": "tempe",
+      "post_title": "Tempe",
+      "title": "Tempe",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Shiprock",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 111,
+      "recreationalStoreId": 111,
+      "storePlatform": "Sweed",
+      "address_1": "520 S Price Rd",
+      "address_2": null,
+      "city": "Tempe",
+      "zip": "85288",
+      "shortTitle": "Cannabist Tempe by Zen Leaf",
+      "state": {
+        "id": "cG9zdDo0MA==",
+        "post_title": "Arizona",
+        "slug": "arizona",
+        "abbr": "AZ"
+      },
+      "lat": "33.42556716906774",
+      "lng": "-111.89223007116469"
+    },
+    {
+      "sweedId": null,
+      "post_id": 421,
+      "locationId": "MD003",
+      "slug": "towson",
+      "post_title": "Towson",
+      "title": "Towson",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "8:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "9:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 1882,
+      "recreationalStoreId": 5490,
+      "storePlatform": "iHeartJane",
+      "address_1": "1608 E Joppa Rd",
+      "address_2": null,
+      "city": "Towson",
+      "zip": "21286",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo1Nw==",
+        "post_title": "Maryland",
+        "slug": "maryland",
+        "abbr": "MD"
+      },
+      "lat": "39.397163654026464",
+      "lng": "-76.56675086441793"
+    },
+    {
+      "sweedId": 151,
+      "post_id": 410,
+      "locationId": "PA013",
+      "slug": "washington",
+      "post_title": "Washington",
+      "title": "Washington",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "11:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "4:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 4084,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "799 W Chestnut St",
+      "address_2": null,
+      "city": "Washington",
+      "zip": "15301",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.169199",
+      "lng": "-80.262645"
+    },
+    {
+      "sweedId": null,
+      "post_id": 666,
+      "locationId": "CT002",
+      "slug": "waterbury",
+      "post_title": "Waterbury",
+      "title": "Waterbury",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "9:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "saturday": {
+          "closed": "8:00 PM",
+          "open": "8:00 AM"
+        },
+        "sunday": {
+          "closed": "12:00 AM",
+          "open": "12:00 AM"
+        }
+      },
+      "medicalStoreId": 4194,
+      "recreationalStoreId": 6219,
+      "storePlatform": "iHeartJane",
+      "address_1": "237 E Aurora St",
+      "address_2": null,
+      "city": "Waterbury",
+      "zip": "06708",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo0NA==",
+        "post_title": "Connecticut",
+        "slug": "connecticut",
+        "abbr": "CT"
+      },
+      "lat": "41.570253",
+      "lng": "-73.057776"
+    },
+    {
+      "sweedId": 147,
+      "post_id": 400,
+      "locationId": "PA003",
+      "slug": "west-chester",
+      "post_title": "West Chester",
+      "title": "West Chester",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "9:00 AM"
+        },
+        "sunday": {
+          "closed": "4:00 PM",
+          "open": "9:00 AM"
+        }
+      },
+      "medicalStoreId": 3949,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "300 Oakland Rd",
+      "address_2": null,
+      "city": "West Chester",
+      "zip": "19382",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "39.886448",
+      "lng": "-75.552006"
+    },
+    {
+      "sweedId": 78,
+      "post_id": 675,
+      "locationId": "WV002",
+      "slug": "westover",
+      "post_title": "Westover",
+      "title": "Westover",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "5:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "5:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "871 Fairmont Rd",
+      "address_2": null,
+      "city": "Westover",
+      "zip": "26501",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo4NQ==",
+        "post_title": "West Virginia",
+        "slug": "west-virginia",
+        "abbr": "WV"
+      },
+      "lat": "39.631290",
+      "lng": "-79.984580"
+    },
+    {
+      "sweedId": 88,
+      "post_id": 766,
+      "locationId": "WV003",
+      "slug": "wheeling",
+      "post_title": "Wheeling",
+      "title": "Wheeling",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "5:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "5:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 1,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "235 Warwood Ave",
+      "address_2": null,
+      "city": "Wheeling",
+      "zip": "26003",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo4NQ==",
+        "post_title": "West Virginia",
+        "slug": "west-virginia",
+        "abbr": "WV"
+      },
+      "lat": "40.104324",
+      "lng": "-80.701828"
+    },
+    {
+      "sweedId": 156,
+      "post_id": 676,
+      "locationId": "PA017",
+      "slug": "wynnewood",
+      "post_title": "Wynnewood Factory Store",
+      "title": "Wynnewood Factory Store",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "6:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "11:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "tuesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "wednesday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "thursday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "friday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 4486,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "257 Lancaster Ave.",
+      "address_2": null,
+      "city": "Wynnewood",
+      "zip": "19096",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "40.00365266653665",
+      "lng": "-75.28213827015298"
+    },
+    {
+      "sweedId": 106,
+      "post_id": 418,
+      "locationId": "PA002",
+      "slug": "york",
+      "post_title": "York",
+      "title": "York",
+      "location_status": "Open",
+      "hours": {
+        "timezoneOffset": "America/Detroit",
+        "specialHoursOverride": [
+          {
+            "closed": null,
+            "closingTime": "7:00 pm",
+            "date": "07/04/2025",
+            "noticeToDisplayOnWebsite": "4th of July",
+            "openingTime": "10:00 am"
+          }
+        ],
+        "monday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "tuesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "wednesday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "thursday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "friday": {
+          "closed": "8:00 PM",
+          "open": "9:00 AM"
+        },
+        "saturday": {
+          "closed": "7:00 PM",
+          "open": "10:00 AM"
+        },
+        "sunday": {
+          "closed": "6:00 PM",
+          "open": "10:00 AM"
+        }
+      },
+      "medicalStoreId": 2438,
+      "recreationalStoreId": null,
+      "storePlatform": "Sweed",
+      "address_1": "890 Loucks Road",
+      "address_2": null,
+      "city": "York",
+      "zip": "17404",
+      "shortTitle": null,
+      "state": {
+        "id": "cG9zdDo3NQ==",
+        "post_title": "Pennsylvania",
+        "slug": "pennsylvania",
+        "abbr": "PA"
+      },
+      "lat": "39.979839",
+      "lng": "-76.75189"
+    }
+  ]

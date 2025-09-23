@@ -1,0 +1,1 @@
+can it cover search which semantic, Multi-word logic, Educational + product blending, Unified location search, Personalization, Voice/AI readiness
