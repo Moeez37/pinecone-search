@@ -1,0 +1,23 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - OPENAI_EMBEDDING_MODEL=${OPENAI_EMBEDDING_MODEL:-text-embedding-3-large}
+      - OPENAI_CHAT_MODEL=${OPENAI_CHAT_MODEL:-gpt-4o-mini}
+      - EMBEDDING_DIMENSION=${EMBEDDING_DIMENSION:-3072}
+      - PINECONE_API_KEY=${PINECONE_API_KEY}
+      - PINECONE_ENVIRONMENT=${PINECONE_ENVIRONMENT}
+      - PINECONE_INDEX_NAME=${PINECONE_INDEX_NAME:-dispensery-search}
+      - REDIS_LANGCACHE_SERVER_URL=${REDIS_LANGCACHE_SERVER_URL}
+      - REDIS_LANGCACHE_API_KEY=${REDIS_LANGCACHE_API_KEY}
+      - REDIS_LANGCACHE_CACHE_ID=${REDIS_LANGCACHE_CACHE_ID}
+      - REDIS_LANGCACHE_SIMILARITY_THRESHOLD=${REDIS_LANGCACHE_SIMILARITY_THRESHOLD:0.9}
+    volumes:
+      - ./app:/app/app
+      - ./logs:/app/logs
+    restart: unless-stopped
